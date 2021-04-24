@@ -1,0 +1,2 @@
+#define hands_on_cmake_major @hands_on_cmake_VERSION_MAJOR@
+#define hands_on_cmake_minor @hands_on_cmake_VERSION_MINOR@
